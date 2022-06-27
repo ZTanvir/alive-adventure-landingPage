@@ -43,24 +43,36 @@ img {
 .main-title {
     font-size: 48px;
     font-weight: 900;
+    font-family: 'Dancing Script', cursive;
     color: #F9FAF8;
     text-transform: uppercase;
 }
 
 
 /* Details information */
-.sub-title {
+.sub-title,
+.review {
     font-size: 36px;
-    font-weight: bolder;
     color: #1F2937;
+
+}
+
+.sub-title {
+    font-weight: bolder;
 }
 
 .review {
-    font-size: 36px;
     font-weight: 300;
     font-style: italic;
-    color: #1F2937;
+
 }
+
+/* Final section */
+.normal-txt {
+    color: white;
+    font-weight: 300;
+}
+
 
 /* Style */
 
@@ -193,10 +205,6 @@ img {
     margin-bottom: 5px;
 }
 
-.normal-txt {
-    color: white;
-    font-weight: 300;
-}
 
 .call-sign-up {
     align-self: center;
