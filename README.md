@@ -7,5 +7,5 @@ Adventure is at the heart of people.This a landing page of Alive adventure
 Just click the code.Clone it.Open the folder and click index.html run it
 in a browser.
 
-[See the site live](https://ztanvir.github.io/alive-adventure-landingPage/).
+[See the site live](https://ztanvir.github.io/alive-adventure-landingPage/)
 
