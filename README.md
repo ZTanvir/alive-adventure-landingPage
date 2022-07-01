@@ -6,3 +6,6 @@ Adventure is at the heart of people.This a landing page of Alive adventure
 ## Use
 Just click the code.Clone it.Open the folder and click index.html run it
 in a browser.
+
+This site was built using [GitHub Pages](https://ztanvir.github.io/alive-adventure-landingPage/).
+
